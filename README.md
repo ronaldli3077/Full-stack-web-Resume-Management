@@ -27,7 +27,6 @@ A full-stack web application for managing resumes, built with **React 18**, **AS
 - **Relationships**: 1-to-Many (e.g., one User to multiple Resumes).
 - **Context**: Managed via Entity Framework Core.
 
-## Topics Covered
 ### Backend (ASP.NET Core)
 - Entities and DTOs for data modeling.
 - Entity Framework Core for ORM and database context.
