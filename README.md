@@ -11,4 +11,4 @@ This is a personal fun project created for enjoyment and experimentation. It ser
 ## Getting Started
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ronaldli3077/Fun-Projects/
