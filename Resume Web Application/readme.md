@@ -1,6 +1,6 @@
 # Resume Management Web Application
 
-A full-stack web application for managing resumes, built with **React 18**, **ASP.NET Core (.NET 7.0)**, **TypeScript**, and **MS SQL Server**. This project features a responsive UI with Material UI, nested routing, and RESTful APIs, optimized for performance and scalability. Follow the [YouTube tutorial](https://www.youtube.com/watch?v=AiwzQMupPsU) to build this project step-by-step.
+A full-stack web application for managing resumes, built with **React 18**, **ASP.NET Core (.NET 7.0)**, **TypeScript**, and **MS SQL Server**. This project features a responsive UI with Material UI, nested routing, and RESTful APIs, optimized for performance and scalability.
 
 ## Features
 - **Responsive UI**: Built with Material UI and nested routing, reducing page load times by 20%.
