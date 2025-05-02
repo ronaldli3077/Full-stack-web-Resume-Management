@@ -7,6 +7,7 @@ This is a personal fun project created for enjoyment and experimentation. It ser
 - **Exploration**: A space to try out creative or technical concepts.
 - **Fun**: Designed to bring a smile or a sense of accomplishment.
 - **Flexibility**: No strict rules—evolve the project as inspiration strikes.
+- **Purpose**: Happy tinkering! 🚀
 
 ## Getting Started
 1. **Clone the Repository**:
